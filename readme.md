@@ -26,8 +26,8 @@
 
 | 硬件平台|团队成员| 项目名称                            |
 |:--------|:----------------------------------:|:----:|
-|Ultra96_V2| 储赟、程佳风、徐一帆| 基于PYNQ的目标检测网络剪枝后的DPU加速实现             | 
-|Ultra96_V2| 熊聪、胡江宇| 基于YOLOv4-tiny的安全帽检测        |
+|Ultra96_V2| 储赟、程佳风、徐一帆| [基于PYNQ的目标检测网络剪枝后的DPU加速实现](https://github.com/chumingqian/Deploy_Yolov4_On_Ultra96_v2)             | 
+|Ultra96_V2| 熊聪、胡江宇| [基于YOLOv4-tiny的安全帽检测](https://github.com/XiongDa0001/Ultra96V2-HatDetection)        |
 
 ## CV方向
 
