@@ -40,8 +40,8 @@
 
 | 硬件平台|团队成员| 项目名称                            |
 |:--------|:----------------------------------:|:----:|
-|PYNQ-Z2| 黄昊、唐垠丰、李健| 基于PYNQ的超声成像系统            | 
-|PYNQ-Z2| 李昊杰、方闻绩、陈琛| 基于PYNQ的可视化数字滤波器        |
+|PYNQ-Z2| 黄昊、唐垠丰、李健| [基于PYNQ的超声成像系统](https://github.com/Sionnoeden/PYNQ-Beamformer)            | 
+|PYNQ-Z2| 李昊杰、方闻绩、陈琛| [基于PYNQ的可视化数字滤波器](https://github.com/lhj0212/-PYNQ-)        |
 
 
 # Contribute（贡献）
