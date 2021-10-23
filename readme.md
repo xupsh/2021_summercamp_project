@@ -19,29 +19,29 @@
 ## IOPs方向
 | 硬件平台|团队成员| 项目名称                            |
 |:--------|:----------------------------------:|:----:|
-|PYNQ-Z2| 宗家伟、崔钰泽、金志远| 基于PYNQ的自行车骑行提示系统              | 
-|PYNQ-Z2| 张绍泽、王浩轩、束超然| [PID可视化项目介绍](https://github.com/zhangshaoze/PYNQ_PID_Demo)        |
+|PYNQ-Z2| 宗家伟、崔钰泽、金志远| 基于PYNQ的自行车骑行提示系统[video](https://youtu.be/wNk8SXH74RY)              | 
+|PYNQ-Z2| 张绍泽、王浩轩、束超然|PID可视化项目介绍 [code](https://github.com/zhangshaoze/PYNQ_PID_Demo)      [video](https://youtu.be/qbKOAOR7k0s)  |
 
 ## DPU方向
 
 | 硬件平台|团队成员| 项目名称                            |
 |:--------|:----------------------------------:|:----:|
-|Ultra96_V2| 储赟、程佳风、徐一帆| [基于PYNQ的目标检测网络剪枝后的DPU加速实现](https://github.com/chumingqian/Deploy_Yolov4_On_Ultra96_v2)             | 
-|Ultra96_V2| 熊聪、胡江宇| [基于YOLOv4-tiny的安全帽检测](https://github.com/XiongDa0001/Ultra96V2-HatDetection)        |
+|Ultra96_V2| 储赟、程佳风、徐一帆| 基于PYNQ的目标检测网络剪枝后的DPU加速实现[code](https://github.com/chumingqian/Deploy_Yolov4_On_Ultra96_v2)[video](https://youtu.be/ZO2rcT0YD04)             | 
+|Ultra96_V2| 熊聪、胡江宇| 基于YOLOv4-tiny的安全帽检测 [code](https://github.com/XiongDa0001/Ultra96V2-HatDetection)[video](https://youtu.be/ZUJEUZHRCPs)        |
 
 ## CV方向
 
 | 硬件平台|团队成员| 项目名称                            |
 |:--------|:----------------------------------:|:----:|
-|PYNQ-Z2| 叶鹏飞、刘佳琪、于锴林| [基于手势识别的鼠标控制](https://github.com/kl-0428/PYNQ.git)              | 
-|PYNQ-Z2| 王正威、雷以林、邱炳纲| [基于PYNQ的交互视频流去雾](https://github.com/Zenway-Wong/PYNQ-DCP)        |
+|PYNQ-Z2| 叶鹏飞、刘佳琪、于锴林|基于手势识别的鼠标控制 [code](https://github.com/kl-0428/PYNQ.git)[video](https://youtu.be/NGERHm35T34)              | 
+|PYNQ-Z2| 王正威、雷以林、邱炳纲|基于PYNQ的交互视频流去雾 [code](https://github.com/Zenway-Wong/PYNQ-DCP)  [video](https://youtu.be/RMOZCRT8qYk)      |
 
 ## DSP方向
 
 | 硬件平台|团队成员| 项目名称                            |
 |:--------|:----------------------------------:|:----:|
-|PYNQ-Z2| 黄昊、唐垠丰、李健| [基于PYNQ的超声成像系统](https://github.com/Sionnoeden/PYNQ-Beamformer)            | 
-|PYNQ-Z2| 李昊杰、方闻绩、陈琛| [基于PYNQ的可视化数字滤波器](https://github.com/lhj0212/-PYNQ-)        |
+|PYNQ-Z2| 黄昊、唐垠丰、李健| 基于PYNQ的超声成像系统[code](https://github.com/Sionnoeden/PYNQ-Beamformer) [video](https://youtu.be/l9V81WzJTWs)         | 
+|PYNQ-Z2| 李昊杰、方闻绩、陈琛| 基于PYNQ的可视化数字滤波器[code](https://github.com/lhj0212/-PYNQ-) [video](https://youtu.be/iOHFBgp3vv0)        |
 
 
 # Contribute（贡献）
