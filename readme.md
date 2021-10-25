@@ -1,5 +1,5 @@
-![introduction](images/introduction.jpg)
-# 2021 Xilinx Summer Camp X PYNQ HACK
+[![introduction](images/introduction.jpg)](https://youtu.be/otU9I2DTb6I)
+# 2021 Xilinx Summer Camp Xilinx PYNQ HACK
 
 本次由信息技术新工科联盟主办，Xilinx、联合承办的暑期学校已于8月6日落下帷幕。从7月26日到8月6日这12天时间里，约90名经过筛选或者参与了阶段一的优秀学员通过互联网参与了这一次暑期学校阶段二的课程。
 
